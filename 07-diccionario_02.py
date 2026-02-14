@@ -18,7 +18,7 @@ for i in range(num):
         "nombre" : nombre,
         "edad" : edad,
         "materia" : materia,
-        "calificaion" : calificacion
+        "calificacion" : calificacion
     }
     alumnos.append(alumno)
     
