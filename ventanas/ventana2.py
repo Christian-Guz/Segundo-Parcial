@@ -2,7 +2,7 @@ import tkinter as tk
 
 ventana = tk.Tk()
 
-ventana.title("Mu primera aplicación")
+ventana.title("Mi primera aplicación")
 
 #Le damos un tamaño a la pantalla
 ventana.geometry("400x300")
